@@ -1,0 +1,9 @@
+{
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "attachmentFolderPath": "attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "daily"
+}
