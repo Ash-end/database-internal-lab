@@ -278,7 +278,25 @@ git commit -m "feat: MiniKV 实现 XXX 功能"
 
 ## 参考资料
 
-- [力扣百题通](https://github.com/mo-lx/LeetCode-BaiTiTong) - 学习方法论
-- [database-internals-notes](https://github.com/Akshat-Jain/database-internals-notes) - 章节笔记范例
-- [Database Internals](https://www.databasinternals.com/) - 教材
+### 方法论来源
+- [力扣百题通](https://github.com/mo-lx/LeetCode-BaiTiTong) - 14 天速成 + AI 教练 + 知识图谱
+- [database-internals-notes](https://github.com/Akshat-Jain/database-internals-notes) - 章节笔记 + 费曼技巧
+
+### 优质学习资源（来自 awesome-database-learning）
+- [CMU Database Systems (15-445/645)](https://15445.courses.cs.cmu.edu/fall2023/schedule.html) - Andy Pavlo
+- [CMU Advanced Database Systems (15-721)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
+- [Designing Data-Intensive Applications](https://github.com/Vonng/ddia) - 中文翻译
+- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
+- [How does a relational database work](http://coding-geek.com/how-databases-work)
+
+### 教材
+- [Database Internals](https://www.databasinternals.com/) - Alex Petrov
+- [Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html)
+- [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
+
+### 论文（进阶）
+- [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [The Ubiquitous B-Tree](http://carlosproal.com/ir/papers/p121-comer.pdf)
+- [The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 
