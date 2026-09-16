@@ -5,6 +5,31 @@ aliases: [数据库学习主页]
 
 # Database Internals 学习笔记
 
+> [!quote] 核心理念
+> **费曼技巧**：教别人是最好的学习方式
+> **结构化笔记**：原始素材 → 知识图谱，层层递进
+> **AI 辅助**：用 Claude 驱动自适应学习闭环
+
+---
+
+## 快速导航
+
+### 学习配置
+- [[database-learning-skill|学习技能]] - 方法论与流程
+- [[学员档案]] - 个人状态
+- [[进度看板]] - 学习进度
+
+### 学习内容
+- [[2026-09-16|今日笔记]] - D1 SQL 基础
+- [[2026-09-16#SQL 基础|SQL 知识点]] - 基础语法
+
+### 参考资源
+- [Database Internals](https://www.databasinternals.com/) - 教材
+- [database-internals-notes](https://github.com/Akshat-Jain/database-internals-notes) - 前人笔记
+- [力扣百题通](https://github.com/mo-lx/LeetCode-BaiTiTong) - 学习方法论
+
+---
+
 ## 学习进度
 
 | 天数 | 主题 | 笔记 | 状态 |
@@ -24,17 +49,14 @@ aliases: [数据库学习主页]
 | D13 | 2PC 与 Raft | | 待开始 |
 | D14 | 验收与交付 | | 待开始 |
 
-## 项目文件位置
-
-- 练习代码：`F:\mywork\Project\database\database_internals_day01_starter\database-internals-lab\`
-- 笔记位置：本 vault
+---
 
 ## 核心概念索引
 
 ### SQL 基础
-- [[#SELECT 查询结构]]
-- [[#NULL 的特殊性]]
-- [[#聚合函数]]
+- [[2026-09-16#SELECT 查询结构]]
+- [[2026-09-16#NULL 的特殊性]]
+- [[2026-09-16#聚合函数]]
 
 ### 存储引擎
 - Bitcask 模型
