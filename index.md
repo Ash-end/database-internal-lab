@@ -26,6 +26,8 @@ aliases: [数据库学习主页]
 
 ### 参考资源
 - [Database Internals](https://www.databasinternals.com/) - 教材
+- 本地 PDF：`database_internals_day01_starter/database-internals-lab/` 下（共 371 页，仅本地参考，不上传 GitHub）
+- 页码换算：**书内页码 + 20 = PDF 页码**（已验证：书 153 页 = PDF 173 页 Bitcask；书 8–10 页 = PDF 28–30 页图 1-1）
 - [database-internals-notes](https://github.com/Akshat-Jain/database-internals-notes) - 前人笔记
 - [力扣百题通](https://github.com/mo-lx/LeetCode-BaiTiTong) - 学习方法论
 
