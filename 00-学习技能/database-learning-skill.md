@@ -70,7 +70,7 @@ database-internal-lab/
 ```markdown
 1. 打开 进度看板.md，确认今日任务
 2. 打开 学员档案.md，回顾学习目标
-3. 创建当日笔记：daily/YYYY-MM-DD.md
+3. 创建当日笔记：03-学习笔记/YYYY-MM-DD.md（或当日第 N 天的 -D3 后缀）
 ```
 
 ### 3.2 学习中（四步法）
